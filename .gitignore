@@ -1,5 +1,10 @@
 hifi-gan/*
-data/*
+data/__pycache__/*
+data/dsp/__pycache__/*
+data/bin/*
+data/raw/*
 model/*
 __pycache__/*
 samples/*
+trainer/__pycache__/*
+logs/*

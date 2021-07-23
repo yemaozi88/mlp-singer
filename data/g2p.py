@@ -161,6 +161,8 @@ class Phone:
 
 def encode(graph):
     prono = graph2prono(graph)
+    #prono = graph
+    
     prono = prono.split(" ")
     encoded_prono = [Phone()]
     for p in prono:

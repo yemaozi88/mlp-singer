@@ -17,7 +17,7 @@
         "chunk_size": 192,
         "data_path": "data/bin"
     },
-    "name": "default",
+    "name": "csd",
     "device": "cuda",
     "patience": 5,
     "num_epochs": 100,
