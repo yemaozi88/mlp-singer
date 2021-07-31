@@ -13,7 +13,7 @@
 			"path": "../vocoders"
 		},
 		{
-			"path": "../hifi-gan"
+			"path": "../hifi_gan"
 		}
 	],
 	"settings": {}
